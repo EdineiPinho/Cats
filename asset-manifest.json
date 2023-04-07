@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/EdineiPinho/static/css/main.073c9b0a.css",
-    "main.js": "/EdineiPinho/static/js/main.ac16d7e6.js",
-    "static/js/787.85be35d2.chunk.js": "/EdineiPinho/static/js/787.85be35d2.chunk.js",
-    "static/media/logo.svg": "/EdineiPinho/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/EdineiPinho/index.html",
-    "main.073c9b0a.css.map": "/EdineiPinho/static/css/main.073c9b0a.css.map",
-    "main.ac16d7e6.js.map": "/EdineiPinho/static/js/main.ac16d7e6.js.map",
-    "787.85be35d2.chunk.js.map": "/EdineiPinho/static/js/787.85be35d2.chunk.js.map"
+    "main.css": "/Cats/static/css/main.073c9b0a.css",
+    "main.js": "/Cats/static/js/main.fb67feca.js",
+    "static/js/787.85be35d2.chunk.js": "/Cats/static/js/787.85be35d2.chunk.js",
+    "static/media/logo.svg": "/Cats/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Cats/index.html",
+    "main.073c9b0a.css.map": "/Cats/static/css/main.073c9b0a.css.map",
+    "main.fb67feca.js.map": "/Cats/static/js/main.fb67feca.js.map",
+    "787.85be35d2.chunk.js.map": "/Cats/static/js/787.85be35d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ac16d7e6.js"
+    "static/js/main.fb67feca.js"
   ]
 }
